@@ -1,0 +1,8 @@
+1 Altura maxima de una arbol vacio
+2 Borrar un dato en un arbol vacio
+3 Borrar un dato no existente en el arbol
+4 Borrar un numero de cedula con un nombre diferente al encontrado en la base de datos
+5 Abrir lista con direccion y o nombre erronea
+6 Se inserto una cedula repetida en la base de datos
+7 Numero de cedula negativo
+8 No hay ordenamiento

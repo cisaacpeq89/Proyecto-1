@@ -1,0 +1,2 @@
+Numero de inserciones: 100, tiempo de ejecucion 0.125 s.
+Numero de inserciones: 10000, tiempo de ejecucion 12.869 s.
