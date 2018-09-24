@@ -195,7 +195,7 @@ class TREEAVL   //Defino una clase TREEAVL
 
     void print_time_tree(float time_tot, int insertnum){ //Guarda el tiempo de ejecucion de la creacion del arbol
         ofstream base;
-        base.open("misc\\data\\running_times.txt", ofstream::out| ofstream::app);
+        base.open("..\\misc\\data\\running_times.txt", ofstream::out| ofstream::app);
         base << "Numero de inserciones: " << insertnum << ", tiempo de ejecucion " << time_tot << " s." << endl;
         base.close();
     }

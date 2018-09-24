@@ -1,3 +1,5 @@
-Numero de inserciones: 100, tiempo de ejecucion 0.125 s.
-Numero de inserciones: 10000, tiempo de ejecucion 12.869 s.
-Numero de inserciones: 10000, tiempo de ejecucion 48.864 s.
+Numero de inserciones: 10000, tiempo de ejecucion 17.906 s.
+Numero de inserciones: 5000, tiempo de ejecucion 8.554 s.
+Numero de inserciones: 1000, tiempo de ejecucion 2.887 s.
+Numero de inserciones: 100, tiempo de ejecucion 0.379 s.
+Numero de inserciones: 10, tiempo de ejecucion 0.062 s.
